@@ -1,0 +1,13 @@
+.form {
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .formBox {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .submitButton {
+    margin-top: 16px;
+  }

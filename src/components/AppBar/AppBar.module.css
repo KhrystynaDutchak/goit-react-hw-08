@@ -1,0 +1,15 @@
+.appBarN {
+    background-color: white !important;
+    border-bottom: 2px solid blue;
+  }
+  
+  .toolbar {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .authContainer {
+    display: flex;
+    align-items: center;
+  }

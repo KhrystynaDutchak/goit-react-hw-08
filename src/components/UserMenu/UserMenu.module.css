@@ -1,0 +1,14 @@
+.userMenu {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .welcome {
+    color: black;
+  }
+  
+  .logoutButton {
+    background-color: #1b6796;
+    color: white;
+  }

@@ -1,0 +1,37 @@
+
+.info{
+    margin-right: 15px;
+}
+.infoItem{
+    margin: 0;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+}
+.infoItem:not(:last-child){
+    margin-bottom: 12px;
+}
+.infoItem svg{
+    margin-right: 10px;
+}
+.contactItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px 0;
+    max-width: 350px;
+    width: 100%;
+  }
+  
+  .contactInfo {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .infoItem {
+    display: flex;
+    align-items: center;
+  }
